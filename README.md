@@ -58,7 +58,7 @@ const albin = {
 - 📫 Email: **albin3629@gmail.com**
 - 🌍 Kerala, India
 - 💻 GitHub: https://github.com/Albin024
-- 🔗 LinkedIn: *Add your LinkedIn URL*
+- 🔗 LinkedIn: https://www.linkedin.com/in/albin-roy-330889352?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
